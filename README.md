@@ -65,10 +65,6 @@ I'm currently a Systems Engineering student, eager to learn about software devel
   <img src="https://github-readme-stats.vercel.app/api?username=SebastianGomezSolis&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGomezSolis&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 ---
 
 ## 📬 Contact me
